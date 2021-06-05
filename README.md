@@ -37,7 +37,7 @@
 
 
 
-### Find me all around the web:
+### Find me all around the web
 <p align = "left">
     <a href="mailto:blasettiale@gmail.com">
         <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
