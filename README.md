@@ -1,7 +1,7 @@
 ## 👋  Ciao, I'm Alessandroblas!
 
 
-:hammer: I am currently an IT Architect at IBM  where I enjoy helping customers through their journey to cloud.
+:hammer: I am currently an IT Architect at Kyndryl  where I enjoy helping customers through their journey to cloud.
 
 :bulb: I am interested in application modernization, NoSQL databases, DevOps and IaC.
 
